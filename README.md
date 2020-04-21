@@ -1,1 +1,1 @@
-# git-test master+rails5
+# git-test master+rails5+qrlogin
